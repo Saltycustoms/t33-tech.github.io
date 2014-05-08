@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://t33-tech.github.io/sitemap.xml 
